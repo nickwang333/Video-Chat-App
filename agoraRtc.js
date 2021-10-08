@@ -2,7 +2,7 @@ let handlefail = function(err){
     console.log(err)
 }
 
-let appId = "a6af85f840ef43108491705e2315a857";
+let appId = "8a446cf0034a4e77b9269656445312f3";
 let globalStream;
 let isAudioMuted= false;
 let isVidioMuted= false;
